@@ -7,5 +7,4 @@ module.exports = defineConfig({
       extensions: ['.ts', '.js', '.vue', '.json']
     }
   },
-
 })
